@@ -8663,6 +8663,22 @@
 				"state": "California",
 				"country": "USA"
 			}
+		},
+		{
+			"id": 543,
+			"name": "Cheikh Seck",
+			"img": "",
+			"links": {
+				"website": "",
+				"linkedin": "https://www.linkedin.com/in/cheikh-seck-40b3a514a",
+				"github": "https://github.com/kheuch2018"
+			},
+			"jobTitle": "Software Developer",
+			"location": {
+				"city": "Dakar",
+				"state": "",
+				"country": "Senegal"
+			}
 		}
 	]
 }
